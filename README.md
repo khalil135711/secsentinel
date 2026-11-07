@@ -1,6 +1,6 @@
 # SecSentinel
 
-[![CI](https://github.com/YOUR-USERNAME/secsentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/khalil135711/secsentinel/actions)
+[![CI](https://github.com/khalil135711/secsentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/khalil135711/secsentinel/actions)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
@@ -19,7 +19,7 @@ Everything runs locally. No network access, no third-party packages, no changes 
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/secsentinel.git
+git clone https://github.com/khalil135711/secsentinel.git
 cd secsentinel
 
 # run directly, no installation needed
